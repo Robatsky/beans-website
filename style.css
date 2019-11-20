@@ -1,3 +1,8 @@
+/*
+Css for Jungbin's art portofolio website.
+@author Ruben Eekhof
+*/
+
 @import url('https://fonts.googleapis.com/css?family=Julius+Sans+One&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Abril+Fatface&display=swap');
 
@@ -20,6 +25,8 @@
   box-shadow: 10px 11px 0px 1px rgba(255,158,202,1);
   float: left;
   background-color: #d3d3d3;
+  border: solid 1px;
+  position: fixed;
 }
 
 #header {
