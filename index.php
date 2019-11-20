@@ -13,7 +13,7 @@ Jungbin's art portofolio website.
 </head>
 <body>
 <div class="top-section">
-	<p id="header">J U N G B I N ' s  A R T  P O R T F O L I O</p>
+	<p id="header">&#x2661; J U N G B I N ' s &nbsp;&nbsp; A R T &nbsp;&nbsp; P O R T F O L I O &#x2661;</p>
 </div>
 <div class="main-section">
 	<div class="navbar">
@@ -35,20 +35,21 @@ Jungbin's art portofolio website.
 			<iframe src="https://open.spotify.com/embed/playlist/6Bk4iUyRdMNkWlukwGq1TM" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 		</div>
 	</div>
-	<div class="hexagons">
-		<div class="hexagon-gallery">
-			<div class="hex"><img src="art/namijhinfinal.jpg"></div>
-		    <div class="hex"><img src="art/namijhinfinal.jpg"></div>
-		    <div class="hex"><img src="art/namijhinfinal.jpg"></div>
-		    <div class="hex"><img src="art/namijhinfinal.jpg"></div>
-		    <div class="hex"><img src="art/namijhinfinal.jpg"></div>
-		    <div class="hex"><img src="art/namijhinfinal.jpg"></div>
-		    <div class="hex"><img src="art/namijhinfinal.jpg"></div>
-		    <div class="hex"><img src="art/namijhinfinal.jpg"></div>
-		    <div class="hex"><img src="art/namijhinfinal.jpg"></div>
-		    <div class="hex"><img src="art/namijhinfinal.jpg"></div>
+		<div class="hexagons">
+			<div class="hexagon-gallery">
+				<div class="hex"><img src="art/namijhinfinal.jpg"></div>
+			    <div class="hex"><img src="art/namijhinfinal.jpg"></div>
+			    <div class="hex"><img src="art/namijhinfinal.jpg"></div>
+			    <div class="hex"><img src="art/namijhinfinal.jpg"></div>
+			    <div class="hex"><img src="art/namijhinfinal.jpg"></div>
+			    <div class="hex"><img src="art/namijhinfinal.jpg"></div>
+			    <div class="hex"><img src="art/namijhinfinal.jpg"></div>
+			    <div class="hex"><img src="art/namijhinfinal.jpg"></div>
+			    <div class="hex"><img src="art/namijhinfinal.jpg"></div>
+			    <div class="hex"><img src="art/namijhinfinal.jpg"></div>
+			</div>
 		</div>
-</div>
+	</div>
 </div>
 </body>
 </html>
