@@ -14,14 +14,17 @@ Jungbin's art portofolio website.
 <body>
 <div class="top-section">
 	<p id="header">&#x2661; J U N G B I N ' s &nbsp;&nbsp; A R T &nbsp;&nbsp; P O R T F O L I O &#x2661;</p>
+	<div class="separator">&#x2661;</div>
 </div>
 <div class="main-section">
 	<div class="navbar">
-		<input type="text" name="Searchbar" placeholder="Search!">
-		<a href="#">About Me</a>
-		<a href="#">Other Art</a>
-		<a href="#">Digital Art</a>
-		<a href="#">Faq</a>
+		<ul>
+			<li><a href="#">Test</a></li>
+			<li><a href="#">About Me</a></li>
+			<li><a href="#">Other Art</a></li>
+			<li><a href="#">Digital Art</a></li>
+			<li><a href="#">Faq</a></li>
+		</ul>
 	</div>
 	<div class="sidebar">
 		<div class="profilepicture">
